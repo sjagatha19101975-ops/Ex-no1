@@ -1,4 +1,4 @@
-# Arithmetic-operation-using-8086
+Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
 
 ## AIM
@@ -53,20 +53,19 @@ END
 ```
 
 #### Output Table
+<img width="1600" height="844" alt="WhatsApp Image 2026-05-23 at 10 15 35 PM" src="https://github.com/user-attachments/assets/d1a6223c-2d75-4f3a-96a6-2bb0b2ebcb36" />
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="720" height="1280" alt="WhatsApp Image 2026-05-23 at 10 15 11 PM" src="https://github.com/user-attachments/assets/f8cf4114-7591-46e9-b805-01ef766bffbf" />
+
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="499" height="301" alt="image" src="https://github.com/user-attachments/assets/ad256a78-1281-4708-8111-82df8856358a" />
+
 
 ## 2. SUBTRACTION
 
@@ -106,19 +105,19 @@ END
 
 
 #### Output Table
-
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+<img width="1068" height="1280" alt="WhatsApp Image 2026-05-23 at 10 17 03 PM" src="https://github.com/user-attachments/assets/70f5a7d3-b8b8-4202-aa52-7e67d30d1e55" />
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="702" height="1280" alt="WhatsApp Image 2026-05-23 at 10 16 42 PM" src="https://github.com/user-attachments/assets/bb3213fe-7ba6-4ee9-ad4a-03a7e77e9830" />
+
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="798" height="496" alt="image" src="https://github.com/user-attachments/assets/a7355e7c-e568-43f8-8db1-7a02c4be2e37" />
+
 
 ## 3. MULTIPLICATION
 
@@ -155,18 +154,19 @@ END
 ```
 
 #### Output Table
+<img width="1600" height="785" alt="WhatsApp Image 2026-05-23 at 10 19 55 PM" src="https://github.com/user-attachments/assets/b0a7ef42-2ec3-4716-85f4-7eb4e660878e" />
+<img width="721" height="1280" alt="WhatsApp Image 2026-05-23 at 10 19 32 PM" src="https://github.com/user-attachments/assets/549e12b3-ecf4-4334-b036-44dec5d97750" />
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="685" height="1280" alt="WhatsApp Image 2026-05-23 at 10 17 44 PM" src="https://github.com/user-attachments/assets/d2ec1d22-5b02-4c56-a99c-7ca72d8b895f" />
+
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="807" height="516" alt="image" src="https://github.com/user-attachments/assets/7549f4eb-dab0-4aee-b75e-9f497fbac5ef" />
 
 ## 4. DIVISION
 
@@ -201,17 +201,18 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+<img width="1299" height="1600" alt="WhatsApp Image 2026-05-23 at 10 20 50 PM" src="https://github.com/user-attachments/assets/7d8759e2-452a-4bad-adc8-e4dff82828fe" />
+
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="746" height="1280" alt="WhatsApp Image 2026-05-23 at 10 20 23 PM" src="https://github.com/user-attachments/assets/e8e51f83-ec4a-415c-aa2e-42bf6af60b93" />
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="798" height="511" alt="image" src="https://github.com/user-attachments/assets/4aef66c4-1e9a-4cea-aba5-c063d8cfe00f" />
 
 
 ## RESULT
