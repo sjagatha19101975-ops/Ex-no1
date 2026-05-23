@@ -154,7 +154,7 @@ END
 ```
 
 #### Output Table
-<img width="1600" height="785" alt="WhatsApp Image 2026-05-23 at 10 19 55 PM" src="https://github.com/user-attachments/assets/b0a7ef42-2ec3-4716-85f4-7eb4e660878e" />
+
 <img width="721" height="1280" alt="WhatsApp Image 2026-05-23 at 10 19 32 PM" src="https://github.com/user-attachments/assets/549e12b3-ecf4-4334-b036-44dec5d97750" />
 
 
